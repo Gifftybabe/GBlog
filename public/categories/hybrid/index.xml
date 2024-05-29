@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hybrid on GB Blog</title>
+    <link>http://localhost:1313/categories/hybrid/</link>
+    <description>Recent content in Hybrid on GB Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2024 02:07:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/hybrid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Work</title>
+      <link>http://localhost:1313/my-third-post/</link>
+      <pubDate>Tue, 14 May 2024 02:07:31 +0100</pubDate>
+      <guid>http://localhost:1313/my-third-post/</guid>
+      <description>The COVID-19 pandemic has dramatically accelerated the shift towards remote and hybrid work models, reshaping the future of work. As companies and employees adapt to new ways of working, several key trends and developments are emerging.&#xA;Increased Flexibility Remote and hybrid models offer greater flexibility, allowing employees to balance work and personal life more effectively. This flexibility is becoming a critical factor in job satisfaction and employee retention.&#xA;Technological Advancements Advances in technology are facilitating the remote work revolution.</description>
+    </item>
+  </channel>
+</rss>

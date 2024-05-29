@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gifftybabe on GB Blog</title>
+    <link>http://localhost:1313/authors/gifftybabe/</link>
+    <description>Recent content in Gifftybabe on GB Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2024 02:07:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/gifftybabe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Travel Sustainably</title>
+      <link>http://localhost:1313/my-fourth-post/</link>
+      <pubDate>Tue, 14 May 2024 02:07:31 +0100</pubDate>
+      <guid>http://localhost:1313/my-fourth-post/</guid>
+      <description>Traveling offers incredible experiences and memories, but it can also leave a significant environmental footprint. Embracing sustainable travel practices ensures that you can explore the world while minimizing your impact on the planet. Here are some practical tips for eco-friendly adventures:&#xA;Choose Green Transportation Opt for Public Transit: Use buses, trains, and trams instead of taxis or rental cars. Fly Smart: Book direct flights whenever possible to reduce carbon emissions. Consider Alternatives: Look into biking, walking, or carpooling for shorter distances.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on GB Blog</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on GB Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2024 02:07:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arome</title>
+      <link>http://localhost:1313/authors/arome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/arome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chantel</title>
+      <link>http://localhost:1313/authors/chantel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/chantel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gifftybabe</title>
+      <link>http://localhost:1313/authors/gifftybabe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/gifftybabe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sammy</title>
+      <link>http://localhost:1313/authors/sammy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/sammy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

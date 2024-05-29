@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sammy on GB Blog</title>
+    <link>http://localhost:1313/authors/sammy/</link>
+    <description>Recent content in Sammy on GB Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2024 02:07:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/sammy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Power of Habits</title>
+      <link>http://localhost:1313/my-fifth-post/</link>
+      <pubDate>Tue, 14 May 2024 02:07:31 +0100</pubDate>
+      <guid>http://localhost:1313/my-fifth-post/</guid>
+      <description>Habits shape our lives in profound ways, influencing everything from our productivity and health to our overall happiness and success. Understanding the power of habits and how to harness them can be a game-changer in achieving your goals and living a fulfilling life.&#xA;What Are Habits? Habits are routines or behaviors that are performed regularly and, often, automatically. They are ingrained in our brains through repetition, allowing us to perform tasks without expending much mental energy.</description>
+    </item>
+  </channel>
+</rss>
